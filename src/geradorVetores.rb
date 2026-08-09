@@ -1,4 +1,3 @@
-require_relative 'entrada.rb'
 def gerar_vetor_crescente(tamanho_vetor)
   vetor_crescente = Array.new(tamanho_vetor)
   indice = 0
