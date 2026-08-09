@@ -14,3 +14,6 @@
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Ignorar configurações locais do editor e do Windows.
+.idea/
