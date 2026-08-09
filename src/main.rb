@@ -3,6 +3,7 @@ require_relative 'geradorVetores'
 require_relative 'algoritmoOrdenacao'
 require_relative 'exibirTabela'
 
+#Executa testes
 tamanho_vetor, quantia_testes = solicitar_entradas()
 
 imprimir_cabecalho()
