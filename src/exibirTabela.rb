@@ -1,4 +1,5 @@
 def imprimir_cabecalho
+  puts ""
   puts "-" * 88
   puts " Tamanho do Vetor | Crescente (Tempo) | Decrescente (Tempo) | Aleatório (Tempo Médio) "
   puts "-" * 88
